@@ -26,6 +26,7 @@ Create a HTML file and include the needed Bootstrap components.
 Publish the website in the LocalHost.
 
 ## PROGRAM :
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -250,7 +251,7 @@ footer {
     </footer>
 </body>
 </html>
-
+```
 ## OUTPUT:
 ![326831887-007620db-08df-4ddd-ae75-a3093df43d3f](https://github.com/pradeepasri26/Pharma/assets/131433142/5c220a13-1897-436f-b540-38417214a025)
 
