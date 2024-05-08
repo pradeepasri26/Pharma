@@ -251,10 +251,8 @@ footer {
 </body>
 </html>
 
-
 ## OUTPUT:
 ![326831887-007620db-08df-4ddd-ae75-a3093df43d3f](https://github.com/pradeepasri26/Pharma/assets/131433142/5c220a13-1897-436f-b540-38417214a025)
-
 
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
