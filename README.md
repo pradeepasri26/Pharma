@@ -1,12 +1,10 @@
-# Project Responsive Web Design using Bootstrap
+#  Ex-10 Project Responsive Web Design using Bootstrap
 ## Date:
 
 ## AIM:
 To design a responsive website for a Pharmaceutical Company using Bootstrap.
 
-
 ## DESIGN STEPS:
-
 ### Step 1:
 Clone the repository from GitHub.
 
